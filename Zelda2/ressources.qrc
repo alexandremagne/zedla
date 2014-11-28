@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/link_down">
+        <file>Tiles/link_down/10.png</file>
+        <file>Tiles/link_down/11.png</file>
+        <file>Tiles/link_down/20.png</file>
+        <file>Tiles/link_down/21.png</file>
+        <file>Tiles/link_down/horse10.png</file>
+        <file>Tiles/link_down/horse11.png</file>
+        <file>Tiles/link_down/horse20.png</file>
+        <file>Tiles/link_down/horse21.png</file>
+        <file>Tiles/link_down/horse30.png</file>
+        <file>Tiles/link_down/horse31.png</file>
+    </qresource>
+</RCC>
